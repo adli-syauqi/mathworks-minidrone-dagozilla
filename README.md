@@ -3,6 +3,7 @@
 This repository contains the algorithm development and simulation files for an autonomous line-following quadcopter. This project was developed as part of the MathWorks Global Drone Virtual Competition, focusing on real-time computer vision and dynamic flight control within a simulated environment.
 
 ![Simulation Demo](docs/simulation.gif)
+<br>
 *Side-by-side view of the downward-facing camera feed (left) and the 3D flight simulation environment (right).*
 
 ## 🏗️ System Architecture & Scope
