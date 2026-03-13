@@ -1,0 +1,6 @@
+# MATLAB and Simulink Cache/Junk Files
+*.asv
+*.slxc
+*.autosave
+slprj/
+work/
